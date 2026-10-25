@@ -29,9 +29,9 @@ I build websites end to end — **.NET Core, PHP, React** — and then grow them
 | Project | What it is |
 | --- | --- |
 | [huy-tran-portfolio](https://github.com/huytr14/huy-tran-portfolio) | My portfolio — React + TypeScript + Tailwind, live on Vercel |
-| [Website-thuyngashop](https://github.com/huytr14/Website-thuyngashop) | Full e-commerce build for a multi-department imported-goods store — Next.js, Drizzle ORM, Neon Postgres, admin CMS |
+| [FullyProtectedIns.com](https://fullyprotectedins.com) | Insurance agency marketing website I built & managed — PHP, landing pages, technical SEO *(client project — source code private)* |
+| [ThuyNgaShop E-commerce](https://huy-tran-portfolio.vercel.app/#projects) | Full e-commerce build for a multi-department imported-goods store — Next.js, Drizzle ORM, Neon Postgres, admin CMS *(client project — source code private)* |
 | [ai-chat-app](https://github.com/huytr14/ai-chat-app) | Full-stack AI chat app — Groq API (Llama 3 & Llama 4 Vision), React + Express, image & CSV chat |
-| [fullyprotectedins](https://github.com/huytr14/fullyprotectedins) | Insurance agency marketing website — PHP, landing pages, technical SEO |
 
 ## GitHub Stats
 
